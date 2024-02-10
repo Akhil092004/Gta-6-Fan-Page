@@ -58,6 +58,12 @@ h2::before{
     transition: all 300ms ease-in-out;
 }
 
+.nav-bar-list .nav-link:hover{
+    border-radius: 20px;
+    background-color : #d04abcfe;
+    color: white;
+}
+
 
 .nav-bar-list .nav-link.active{
     border-radius: 20px;
